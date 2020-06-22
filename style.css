@@ -71,5 +71,8 @@ html {
   height: auto;
   max-width: 100%;
 }
+.container .box .left {
+  border-top-right-radius: 80px;
+}
 
 /*# sourceMappingURL=style.css.map */

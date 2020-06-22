@@ -64,7 +64,7 @@ $veryDarkBlue: hsl(229, 57%, 11%);
         max-width: 850px;
         display: flex;
         flex-direction: column; // Change this to row in Desktop
-        
+
         .item {
             width: 100%;
             padding: 30px;
@@ -101,6 +101,9 @@ $veryDarkBlue: hsl(229, 57%, 11%);
                     max-width: 100%;
                 }
             }
+        }
+        .left {
+            border-top-right-radius: 80px;
         }
     }
 }
